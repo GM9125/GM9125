@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ghulam Mustafa</h1>
 <h3 align="center">React.js Front-End Developer | Passionate about AI</h3>
 
-- 🌱 I’m currently learning **Next JS, Flask**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gm9125&label=Profile%20views&color=0e75b6&style=flat" alt="gm9125" /> </p>
+
+- 🔭 I’m currently learning **Next JS, Flask**
+
+- 💬 Ask me about **Web Design, React JS , Database Design**
 
 - 📫 How to reach me **gmimtiaz125@gmail.com**
 
