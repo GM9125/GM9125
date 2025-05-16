@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gm9125&label=Profile%20views&color=0e75b6&style=flat" alt="gm9125" /> </p>
 
-- 🔭 I’m currently learning **Next JS, Flask**
+- 🔭 Developing **Next JS, Flask and Django applications**
 
 - 💬 Ask me about **Web Design, React JS , Database Design**
 
